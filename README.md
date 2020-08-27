@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Python Developer
+I'm a Python Developer
 
 <!--
 **Rajatkhatri7/rajatkhatri7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
